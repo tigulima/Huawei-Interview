@@ -10,13 +10,7 @@ The following questions that require coding should be answered in Python.
 
   1. Schematize an OO application that receives user authentication information (username and password), access a webpage using the information given, retrieve data from the webpage (HTML table), and export the extracted data (excel file). The schematic should consider class variables and methods, including parameters and outputs.
 
-  2. Develop a script that can access a given URL and return all email addresses found in the page. These pages can be used as examples:
-   
-     i. https://www.golfclubsatthetribute.com/Default.aspx?p=DynamicModule&pageid=149&ssid=204&vnf=1;
-
-     ii. https://www.thegolfclubatfossilcreek.com/club-contacts;
-
-     iii. https://www.mg-cc.org/club-information/club-contacts;
+  2. Develop a script that can access a given URL and return all email addresses found in the page.
 
   3. Develop a script that can list all the content inside a directory and returns a dataframe with the following information:
 
