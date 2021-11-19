@@ -30,12 +30,28 @@ The following questions that require coding should be answered in Python.
     
       e. Last modification date.
     
-To complete the first task, I used the following libs:
- - Selenium
-    pip install selenium
+To complete the tasks, I used the following libs:
+  - Selenium
+
+        pip install selenium
     
-- BeatufulSoup4
+  - BeatufulSoup4
+
+        pip install BeautifulSoup4
   
-- Requests
+  - Requests
+
+        pip install requests
+        
+  - Pandas
+
+        pip install pandas
   
-- Chrome drivers (https://sites.google.com/chromium.org/driver/downloads)
+  - Chrome drivers 
+ 
+        https://sites.google.com/chromium.org/driver/downloads
+        
+
+
+        
+  
