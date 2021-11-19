@@ -41,6 +41,7 @@ I'm gessing you already have installed git, python and the VS Code extensions or
   (You might need Git for that: https://git-scm.com/downloads)
     
 To complete the tasks, I used the following libs:
+
   - Selenium
 
         pip install selenium
