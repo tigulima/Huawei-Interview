@@ -7,7 +7,6 @@ path = r'.'
 
 name = os.listdir(path)
 location = path
-
 size = os.stat(path).st_size
 last_mod = os.stat(path).st_mtime
 
