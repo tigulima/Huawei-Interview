@@ -18,5 +18,5 @@ day = datetime.fromtimestamp(os.stat(path).st_mtime, tz=timezone.utc).day
 date = year, month, day
 
 # "name" already contains the extension value.
-pandas.DataFrame(data=[name])
+pandas.DataFrame(data=[name, location, size, date], index=[0], columns=['name', 'location', 'size', 'date'])
 print(name, location, size, date)
