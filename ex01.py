@@ -1,5 +1,6 @@
 from selenium import webdriver
 
+# you can use tigulima for username and Frango!123 as a password. Don't worry, I'll change it.
 user = input("Enter a username: ")
 pas = input("Enter a password: ")
 
@@ -18,10 +19,11 @@ class Login:
 
     password.send_keys(Keys.RETURN)
 
-
+# The class search had to be made once the home page we are accessing has no interesting data to be collected.
 class Search:
     from selenium.webdriver.common.keys import Keys
 
+# It will search the word "test" on line 28. Feel free to change that :)
     search = driver.find_element_by_name("q")
     search.send_keys("test")
     search.send_keys(Keys.RETURN)
