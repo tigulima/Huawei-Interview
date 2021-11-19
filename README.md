@@ -1,6 +1,6 @@
 # HuaweiPythonTest
 
-Hello! Recently I was selected, through a job interview, to be developing a few simple webscraping aplications in pyhton and I realised there is not much content on the internet to help us out on this market, so I had to bang my head on the wall for two days straight to get around some little and inofensive (that's what I thought) syntax error. Now there's no reason for me to keep this knowloge for my self. I Hope you'll enjoy it :)
+Hello! Recently I was selected, through a job interview, to be developing a few simple webscraping aplications in pyhton and I realised there is not much content against the internet to help us out on this market, so I had to bang my head on the wall for two days straight to get around some little and inofensive (that's what I thought) syntax error. Now there's no reason for me to keep this knowloge for my self. I Hope you'll enjoy it :)
 
 This project is separated in three main archives: ex01.py, ex02.py and ex03.py. Each one made to answare one of the three tasks passed over for me.
 
@@ -62,9 +62,9 @@ To complete the tasks, I used the following libs:
         https://sites.google.com/chromium.org/driver/downloads
         
 
-  For Chrome Drivers to work, you need to place the unzipped "chromedrivers.exe" file on the following path: 
+  For Chrome Drivers to work, you need to place the unzipped "chromedriver.exe" file on the following path: 
             
-    C:\Program Files (x86)\ChromeDrivers
+    C:\Program Files (x86)\ChromeDriver
 
 # Run
 
