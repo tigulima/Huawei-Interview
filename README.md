@@ -71,7 +71,7 @@ To complete the tasks, I used the following libs:
 
 Now, to run the code, open cmd on the directory you cloned this project and type:
   
-  For question 1:
+  For question 1: (You can use tigulima Frango!123 as username and password)
   
     python ex01.py
 
