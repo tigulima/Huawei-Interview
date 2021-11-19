@@ -26,7 +26,7 @@ The following questions that require coding should be answered in Python.
       
 # Install
 
-I'm gessing you already have installed git, python and the VS Code extensions or pycharm to run this code. If this is the case, you are only a few steps away from letting it do its magic. If not, first go to the Python in VS Code or Pycharm webpage https://code.visualstudio.com/docs/languages/python // https://www.jetbrains.com/pycharm/ (respectivly), there you'll find instructions on how to prepare your computer to run any python project.
+I'm gessing you already have installed git, python and the VS Code extensions or Pycharm to run this code. If this is the case, you are only a few steps away from letting it do its magic. If not, first go to the Python in VS Code or Pycharm webpage https://code.visualstudio.com/docs/languages/python // https://www.jetbrains.com/pycharm/ (respectivly), there you'll find instructions on how to prepare your computer to run any python project.
 
   Now you need (as always) to clone this repository:
 
@@ -39,19 +39,15 @@ To complete the tasks, I used the following libs:
   - Selenium
 
         pip install selenium
-    
   - BeatufulSoup4
 
         pip install BeautifulSoup4
-  
   - Requests
 
         pip install requests
-        
   - Pandas
 
         pip install pandas
-  
   - Chrome drivers 
  
         https://sites.google.com/chromium.org/driver/downloads
@@ -65,18 +61,17 @@ To complete the tasks, I used the following libs:
 
 Now, to run the code, open cmd on the directory you cloned this project and type:
   
-  For question 1: (You can use tigulima Frango!123 as username and password. Don't worry, I'll change it :P)
+  - For question 1: 
+
+    `You can use tigulima Frango!123 as username and password. (Don't worry, that's not my default password :P)`
   
-    python ex01.py
+        python ex01.py
+  - For question 2:
 
-  For question 2:
-
-    python ex02.py
+        python ex02.py    
+  - For question 3:
     
-  For question 3:
-    
-    python ex03.py
-    
+        python ex03.py   
   And Voilah!
   
   If you have any, and I mean ANY question or tips I DARE you to e-mail me at tigulima@gmail.com. I'm waiting for your response, and happy coding!
