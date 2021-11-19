@@ -2,6 +2,7 @@ from datetime import datetime, timezone
 import pandas
 import os
 
+# If you want to inspect another path, go ahead and change the "path" value
 path = r'.'
 
 name = os.listdir(path)
@@ -16,6 +17,6 @@ day = datetime.fromtimestamp(os.stat(path).st_mtime, tz=timezone.utc).day
 
 date = year, month, day
 
+# "name" already contains the extension value.
 pandas.DataFrame(data=[name])
-
 print(name, location, size, date)
