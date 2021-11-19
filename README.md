@@ -2,7 +2,7 @@
 
 Hello! Recently I was selected, through a job interview, to be developing a few simple webscraping aplications in pyhton and I realised there is not much content on the internet to help us out on this market, so I had to bang my head on the wall for two days straight to get around some little and inofensive (that's what I thought) syntax error. Now there's no reason for me to keep this knowloge for my self. I Hope you'll enjoy it :)
 
-This project is separated in three main archives: ex01.py, ex02.py and ex03.py. Each one made to answare one of the tree tasks passed over for me.
+This project is separated in three main archives: ex01.py, ex02.py and ex03.py. Each one made to answare one of the three tasks passed over for me.
 
 Those were the questions:
 
@@ -29,6 +29,16 @@ The following questions that require coding should be answered in Python.
       d. Size;
     
       e. Last modification date.
+      
+# Install
+
+I'm gessing you already have installed git, python and the VS Code extensions or pycharm to run this code. If this is the case, you are only a few steps away from letting it do its magic. If not, first go to the Python in VS Code or Pycharm webpage https://code.visualstudio.com/docs/languages/python // https://www.jetbrains.com/pycharm/ (respectivly), there you'll find instructions on how to prepare your computer to run any python project.
+
+  Now you need (as always) to clone this repository:
+
+    git clone https://github.com/tigulima/HuaweiPythonTest.git
+    
+  (You might need Git for that: https://git-scm.com/downloads)
     
 To complete the tasks, I used the following libs:
   - Selenium
@@ -52,6 +62,27 @@ To complete the tasks, I used the following libs:
         https://sites.google.com/chromium.org/driver/downloads
         
 
+  For Chrome Drivers to work, you need to place the unzipped "chromedrivers.exe" file on the following path: 
+            
+    C:\Program Files (x86)\ChromeDrivers
 
-        
+# Run
+
+Now, to run the code, open cmd on the directory you cloned this project and type:
   
+  For question 1:
+  
+    python ex01.py
+
+  For question 2:
+
+    python ex02.py
+    
+  For question 3:
+    
+    python ex03.py
+    
+  And Voilah!
+  
+  If you have any, and I mean ANY question or tips I DARE you to e-mail me at tigulima@gmail.com. I'm waiting for your response, and happy coding!
+    
