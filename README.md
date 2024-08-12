@@ -1,4 +1,4 @@
-# HuaweiPythonTest
+# Huawei Interview
 
 Hello! Recently I was selected, through a job interview, to be developing a few simple webscraping aplications in pyhton and I realised there is not much content on the internet to help us out on this market, so I had to bang my head against the wall for two days straight to get around some little and inofensive (that's what I thought) problems like syntax error. Now there's no reason for me to keep this knowloge for my self. I Hope you'll enjoy it :)
 
